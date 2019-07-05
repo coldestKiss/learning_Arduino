@@ -5,7 +5,7 @@
   * morse.ino
 * 第三天作业：
   * car.ino   （汽车马达及车灯模拟程序）
-  * GQOU0[P878}D{4A$UE)(MLG.png、num_display.ino   （汽车马达及车灯模拟图）
+  * GQOU0[P878}D{4A$UE)(MLG.png   （汽车马达及车灯模拟图）
   * num_display.ino   （七段数码管数字显示程序）
   * 七段数码管数字显示.png
 * 第四天作业：
